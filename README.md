@@ -1,4 +1,4 @@
 # college-demo
 This is my first Git Repository.
 <br>
-Author - Lakshay Sharma
+Author - Lakshay Sharma Parashar
